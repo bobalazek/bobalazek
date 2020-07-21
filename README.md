@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hello There!
 
-<!--
-**bobalazek/bobalazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Borut Balazek**, a Full-Stack Web Developer based in Slovenia, Europe.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 My Toolbelt
+
+`HTML5 & CSS5`, `Javascript & Typescript`, `PHP`, `Symfony`, `CakePHP`, `NodeJS`, `React`, `React Native`, `Docker`, `VSCode` & more
+
+## 💙 Hobbies
+
+💻 Programming, 🎵 Music, 📷 Photography, & 🐕 Spending times with my dogs
+
+
+## 🌐 Languages
+
+**English**, **German** & **Slovenian**
+
+
+## Social Media
+
+* 🗏 Website: https://bobalazek.com
+* 💼 Linkedin: https://www.linkedin.com/in/borut-balazek-41765a53/
+* ❌ Xing: https://www.xing.com/profile/Borut_Balazek2
+* 🐦Twitter: https://twitter.com/bobalazek
+* 🎧 Soundcloud: https://soundcloud.com/somnismusic
+* 📧 Email: info@bobalazek.com
