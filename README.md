@@ -23,5 +23,6 @@ I'm **Borut Balazek**, a Full-Stack Web Developer based in Slovenia, Europe.
 * 💼 Linkedin: https://www.linkedin.com/in/borut-balazek-41765a53/
 * ❌ Xing: https://www.xing.com/profile/Borut_Balazek2
 * 🐦Twitter: https://twitter.com/bobalazek
-* 🎧 Soundcloud: https://soundcloud.com/somnismusic
+* 🎵 Soundcloud: https://soundcloud.com/somnismusic
+* 📷 Instagram: https://www.instagram.com/bobalazek/
 * 📧 Email: info@bobalazek.com
