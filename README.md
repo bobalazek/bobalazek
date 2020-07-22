@@ -1,4 +1,4 @@
-# 👋 Hello There!
+# 👋 Hey there!
 
 I'm **Borut Balazek**, a Full-Stack Web Developer based in Slovenia, Europe.
 
