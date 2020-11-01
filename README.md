@@ -2,21 +2,13 @@
 
 I'm **Borut Balazek**, a Full-Stack Web Developer based in Slovenia, Europe.
 
-
-## 🔨 My Toolbelt
+## 🔨 Programming languages & tools
 
 `HTML5 & CSS5`, `Javascript & Typescript`, `PHP`, `Symfony`, `CakePHP`, `NodeJS`, `React`, `jQuery`, `Python`, `React Native`, `Electron` `Docker`, `VSCode`
-
-
-## 💙 Hobbies
-
-💻 Programming, 🎵 Music, 📷 Photography, & 🐕 Spending times with my dogs
-
 
 ## 🌐 Languages
 
 **English**, **German** & **Slovenian**
-
 
 ## Social Media
 
