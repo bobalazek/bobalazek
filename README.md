@@ -4,7 +4,7 @@ I'm a full-stack web developer with 10+ years of experience who enjoys building 
 
 ## 🔨 Programming languages & tools
 
-`Javascript`, `Typescript`, `Node.js`, `React`, `jQuery`, `PHP`, `Symfony`, `CakePHP`, `Python`, `React Native` & `Docker`
+`Javascript & Typescript`, `NodeJS`, `React`, `React Native`, `PHP`, `Symfony`, `CakePHP`, `Python`, `Docker` and more.
 
 ## 🌐 Languages
 
