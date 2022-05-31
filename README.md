@@ -4,7 +4,7 @@ I'm a full-stack web developer with 10+ years of experience who enjoys building 
 
 ## 🔨 Programming languages & tools
 
-`Javascript & Typescript`, `NodeJS`, `React`, `React Native`, `PHP`, `Symfony`, `CakePHP`, `Python`, `Docker` and more.
+`Typescript`, `Node.js`, `React`, `React Native`, `Three.js`, `Babylon.js`, `Cypress`, `Prisma`, `GraphQL`, `PHP`, `Symfony`, `CakePHP`, `Python`, `Docker` and many more.
 
 ## 🌐 Languages
 
@@ -16,4 +16,5 @@ I'm a full-stack web developer with 10+ years of experience who enjoys building 
 * Linkedin: https://www.linkedin.com/in/borut-balazek-41765a53
 * Xing: https://www.xing.com/profile/Borut_Balazek2
 * Twitter: https://twitter.com/bobalazek
+* CV: http://cv.bobalazek.com
 * Email: info@bobalazek.com
