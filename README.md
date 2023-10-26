@@ -4,7 +4,7 @@ I am a full-stack web developer with 12+ years of experience who enjoys building
 
 ## 🔨 Programming languages & tools
 
-`Javascript & Typescript`, `React`, `NextJS`, `Docker`, `MySQL & PostgreSQL`, `GraphQL`, `Cypress`, `Python`, `PHP`, `Symfony`, `CakePHP`, `WebGL (ThreeJS & BabylonJS)`, `React Nativr` and many more.
+`Javascript & Typescript`, `React`, `NextJS`, `Docker`, `MySQL & PostgreSQL`, `GraphQL`, `Cypress`, `Python`, `PHP`, `Symfony`, `CakePHP`, `WebGL (ThreeJS & BabylonJS)`, `React Native` and many more.
 
 ## 🌐 Languages
 
