@@ -15,6 +15,5 @@ I am a full-stack web developer with 12+ years of experience who enjoys building
 * Website: https://bobalazek.com
 * Linkedin: https://www.linkedin.com/in/borut-balazek-41765a53
 * Xing: https://www.xing.com/profile/Borut_Balazek2
-* Twitter: https://twitter.com/bobalazek
 * CV: http://cv.bobalazek.com
 * Email: info@bobalazek.com
