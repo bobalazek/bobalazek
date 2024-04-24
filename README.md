@@ -21,4 +21,4 @@ I am a full-stack web developer with 12+ years of experience who enjoys building
 
 ## Blog
 
-Check out my newest blog post, where I talk about the all-in-one productivity platform that I have been working on in the past couple of months called MoaiTime: https://bobalazek.com/blog/0003-moaitime/
+Check out my newest blog post, where I talk about the all-in-one productivity platform called MoaiTime: https://bobalazek.com/blog/0003-moaitime/
