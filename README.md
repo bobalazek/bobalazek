@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I am a full-stack web developer with 12+ years of experience who enjoys building things.
+I am a full-stack web developer with 14+ years of experience who enjoys building things.
 
 ## 🔨 Programming languages & tools
 
