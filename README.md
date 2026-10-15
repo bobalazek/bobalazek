@@ -12,6 +12,4 @@ Since then: founding engineer on an AI market-intelligence platform, where I own
 
 **Open to** a long-term senior seat, employee or B2B contractor.
 
-[What I am looking for](https://bobalazek.com/career).
-
 [bobalazek.com](https://bobalazek.com) · [Blog](https://bobalazek.com/blog) · [CV](https://bobalazek.com/cv) · [LinkedIn](https://www.linkedin.com/in/borut-balazek/) · info@bobalazek.com
