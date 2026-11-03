@@ -8,7 +8,7 @@ Since then: founding engineer on an AI market-intelligence platform, where I own
 
 **Open source:** I worked on the physics and asset loading side of [Babylon.js](https://github.com/BabylonJS/Babylon.js) for a few years, and some of it is still in there. Before that I was doing neural networks in JavaScript, with a few fixes merged into [synaptic](https://github.com/cazala/synaptic) and a couple of text-classification trainers on top of it, then the same again for TensorFlow. That was 2016, a long way from the LLM pipelines I work on now, but the same itch.
 
-**Now:** building [Guestavo](https://guestavo.com) and [AfterGather](https://aftergather.com) end to end, on tooling I wrote. [How that works](https://bobalazek.com/blog/0013-agent-workflows/).
+**Now:** building [Guestavo](https://guestavo.com) and [AfterGather](https://aftergather.com) end to end, on [tooling I wrote](https://bobalazek.com/blog/0013-agent-workflows/).
 
 **Open to** a long-term senior seat, employee or B2B contractor.
 
