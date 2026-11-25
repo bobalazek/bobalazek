@@ -16,4 +16,4 @@ Senior software engineer. 15+ years building and scaling products in TypeScript 
 
 **Open to** a long-term senior role, as an employee or B2B contractor.
 
-[bobalazek.com](https://bobalazek.com) · [CV](https://bobalazek.com/cv) · [Blog](https://bobalazek.com/blog) · [LinkedIn](https://www.linkedin.com/in/borut-balazek/) · info@bobalazek.com
+[bobalazek.com](https://bobalazek.com) · [CV](https://bobalazek.com/cv) · [Blog](https://bobalazek.com/blog) · [LinkedIn](https://www.linkedin.com/in/borut-balazek/)
