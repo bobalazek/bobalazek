@@ -1,22 +1,17 @@
 # Borut Balazek
 
-Senior software engineer. 15+ years of TypeScript and Node.js on PostgreSQL, Docker and Kubernetes, with Python for data work and LLM pipelines in production.
+Senior software engineer. 15+ years building and scaling products in TypeScript and Node.js, from the database to the mobile apps to the cluster they run on, with LLM features in production.
 
-**ClassCharts, 8 years.** First developer alongside the CTO, from hundreds of thousands of users to 10M+ pupils, parents and teachers across thousands of UK schools, until it was acquired by TES Global.
+**AI tutoring platform, millions of students.** Designed and shipped cost-based usage metering across every plan tier at millions of requests a month, replacing message-count limits. Added credit top-ups alongside subscriptions with a purchasing-power-parity Stripe catalogue, and built the usage admin end to end. Built the AI tutor's memory system on Inngest: LLM extraction of facts from conversations and a nightly reconciliation that dedupes and prunes them, spread so overnight database load stays flat.
 
-- Rebuilt the web app from jQuery to React in place
-- Moved three native Android apps onto React Native, six store listings from one codebase
-- Took the platform through three generations of infrastructure
-- Migrated 40+ TB of assets between cloud providers with the platform up
+**Founding engineer, AI market intelligence across 20+ markets.** Owned the product end to end: the Next.js web app, the iOS and Android apps, the Express API serving them and Stripe billing. Built the alerting engine on 20+ BullMQ queues, owned the AI layer of the data platform (GPT classification of financial signals, earnings-call summaries) and led the migration from AWS to GCP.
 
-**MarketAlerts, founding engineer.** AI market-intelligence platform. I owned the product end to end: the web app, both mobile apps, the Express API and the alerting engine, plus the AI layer on a data platform a separate team built.
+**8 years scaling an EdTech platform to 10M+ users.** First developer alongside the CTO, from hundreds of thousands of users to thousands of UK schools at roughly 1,000 requests per second, through its acquisition by TES Global. Rebuilt the web app from jQuery to React in place, shipped six store listings from one React Native codebase, took the platform through three generations of infrastructure and migrated 40+ TB between cloud providers with zero downtime.
 
-**Before that:** backend engineer on a smart-city programme of 20+ microservices on Kubernetes. Underneath it all, eight years of PHP and CakePHP.
+**Open source:** contributor to [Babylon.js](https://github.com/BabylonJS/Babylon.js) (physics and asset loading) and [synaptic](https://github.com/cazala/synaptic).
 
-**Open source:** physics and asset loading in [Babylon.js](https://github.com/BabylonJS/Babylon.js), and fixes merged into [synaptic](https://github.com/cazala/synaptic) in 2016, with text-classification trainers built on top.
+**Now:** building [Guestavo](https://guestavo.com) and [AfterGather](https://aftergather.com) end to end, on a Kubernetes cluster I run myself.
 
-**Now:** building [Guestavo](https://guestavo.com) and [AfterGather](https://aftergather.com) end to end with coding agents, on [tooling I wrote](https://bobalazek.com/blog/0013-agent-workflows/).
-
-**Open to** a long-term senior seat, as an employee or B2B contractor.
+**Open to** a long-term senior role, as an employee or B2B contractor.
 
 [bobalazek.com](https://bobalazek.com) · [CV](https://bobalazek.com/cv) · [Blog](https://bobalazek.com/blog) · [LinkedIn](https://www.linkedin.com/in/borut-balazek/)
