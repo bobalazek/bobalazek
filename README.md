@@ -1,15 +1,22 @@
 # Borut Balazek
 
-Senior Software Engineer. I joined ClassCharts as the first developer alongside the CTO, when its products served hundreds of thousands of users, and stayed eight years, full-time, as it grew to more than ten million pupils, parents and teachers across thousands of UK schools and was acquired by TES Global. Along the way I rebuilt the web application from jQuery to React in place, moved three native Android apps onto React Native so that six store listings came off one codebase, took the platform through three generations of infrastructure, and migrated 40+ TB of assets between cloud providers with the platform up.
+Senior software engineer. 15+ years of TypeScript and Node.js on PostgreSQL, Docker and Kubernetes, with Python for data work and LLM pipelines in production.
 
-Since then: founding engineer on an AI market-intelligence platform, where I owned the product side end to end, the web app, both mobile apps, the Express API and the alerting engine, plus the AI layer on the data platform a separate team built. Before that, backend engineer on a smart-city programme of 20+ microservices across five domains on Kubernetes.
+**ClassCharts, 8 years.** First developer alongside the CTO, from hundreds of thousands of users to 10M+ pupils, parents and teachers across thousands of UK schools, until it was acquired by TES Global.
 
-15+ years of it, mostly TypeScript and Node.js on PostgreSQL, Docker and Kubernetes, with Python for data work and eight years of PHP and CakePHP underneath.
+- Rebuilt the web app from jQuery to React in place
+- Moved three native Android apps onto React Native, six store listings from one codebase
+- Took the platform through three generations of infrastructure
+- Migrated 40+ TB of assets between cloud providers with the platform up
 
-**Open source:** I worked on the physics and asset loading side of [Babylon.js](https://github.com/BabylonJS/Babylon.js) for a few years, and some of it is still in there. Before that I was doing neural networks in JavaScript, with a few fixes merged into [synaptic](https://github.com/cazala/synaptic) and a couple of text-classification trainers on top of it, then the same again for TensorFlow. That was 2016, a long way from the LLM pipelines I work on now, but the same itch.
+**MarketAlerts, founding engineer.** AI market-intelligence platform. I owned the product end to end: the web app, both mobile apps, the Express API and the alerting engine, plus the AI layer on a data platform a separate team built.
 
-**Now:** building [Guestavo](https://guestavo.com) and [AfterGather](https://aftergather.com) end to end, on [tooling I wrote](https://bobalazek.com/blog/0013-agent-workflows/).
+**Before that:** backend engineer on a smart-city programme of 20+ microservices on Kubernetes. Underneath it all, eight years of PHP and CakePHP.
 
-**Open to** a long-term senior seat, employee or B2B contractor.
+**Open source:** physics and asset loading in [Babylon.js](https://github.com/BabylonJS/Babylon.js), and fixes merged into [synaptic](https://github.com/cazala/synaptic) in 2016, with text-classification trainers built on top.
 
-[bobalazek.com](https://bobalazek.com) · [Blog](https://bobalazek.com/blog) · [CV](https://bobalazek.com/cv) · [LinkedIn](https://www.linkedin.com/in/borut-balazek/) · info@bobalazek.com
+**Now:** building [Guestavo](https://guestavo.com) and [AfterGather](https://aftergather.com) end to end with coding agents, on [tooling I wrote](https://bobalazek.com/blog/0013-agent-workflows/).
+
+**Open to** a long-term senior seat, as an employee or B2B contractor.
+
+[bobalazek.com](https://bobalazek.com) · [CV](https://bobalazek.com/cv) · [Blog](https://bobalazek.com/blog) · [LinkedIn](https://www.linkedin.com/in/borut-balazek/)
